@@ -1,4 +1,4 @@
-# work-day-scheduler
+# Work Day Scheduler
 
 This calendar application allows a worker to save tasks hour-by-hour. To do so they type in the field, and click the lock icon on the right to store it locally. The worker can then delete or adjust their entries as they wish. 
 
