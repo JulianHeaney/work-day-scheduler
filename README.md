@@ -5,3 +5,6 @@ This calendar application allows a worker to save tasks hour-by-hour. To do so t
 The hour rows will display RED for the current hour, GREEN for future hours, and GRAY that are already past.
 
 Using Moment.js, the current date and time will always display below the header.
+
+
+The URL of application: https://julianheaney.github.io/work-day-scheduler/
